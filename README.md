@@ -1,1 +1,1 @@
-# semiconductor-defect-classification
+# semiconductor image-defect-classification
