@@ -8,11 +8,11 @@ The project uses Classes 1, 3, and 4 of the Carinthia SEM dataset. Class 1 is th
 
 | File | Description |
 |---|---|
-| `01_vae_class1_archived.ipynb` | VAE training and image generation for Class 1 |
-| `02_cnn_baseline_archived.ipynb` | CNN baseline using original images only |
-| `03_cnn_synthetic_10pct_archived.ipynb` | CNN training with 6 synthetic Class 1 images |
-| `04_cnn_synthetic_30pct_archived.ipynb` | CNN training with 17 synthetic Class 1 images |
-| `05_cnn_synthetic_50pct_archived.ipynb` | CNN training with 28 synthetic Class 1 images and a final comparison |
+| `notebooks/01_vae_class1_archived.ipynb` | VAE training and image generation for Class 1 |
+| `notebooks/02_cnn_baseline_archived.ipynb` | CNN baseline using original images only |
+| `notebooks/03_cnn_synthetic_10pct_archived.ipynb` | CNN training with 6 synthetic Class 1 images |
+| `notebooks/04_cnn_synthetic_30pct_archived.ipynb` | CNN training with 17 synthetic Class 1 images |
+| `notebooks/05_cnn_synthetic_50pct_archived.ipynb` | CNN training with 28 synthetic Class 1 images and a final comparison |
 
 The augmentation percentages refer to the 55 original Class 1 images in the dataset:
 
