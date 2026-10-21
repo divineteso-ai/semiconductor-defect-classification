@@ -79,7 +79,10 @@ Third-party dataset images remain subject to their original license.
 
 ## Data and execution
 
-The notebooks refer to Google Drive paths from the original Colab workspace. They require the Carinthia SEM dataset and previously generated synthetic images. The repository does not include the dataset or generated images.
+The notebooks refer to Google Drive paths from the original Colab workspace. They require the Carinthia SEM dataset and previously generated synthetic images. The repository does not include the original dataset archive or a
+standalone collection of generated images. However, saved notebook
+outputs contain sample images and visualizations; see the dataset
+attribution above.
 
 The notebooks can be opened in Google Colab or Jupyter. However, execution is not required to inspect the saved results and figures.
 
