@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: >-
+  If you use or refer to these archived research notebooks,
+  please cite this repository using the metadata below.
+type: software
+title: "SEM Defect Classification with VAE-Based Data Augmentation"
+authors:
+  - family-names: "Köchl"
+    given-names: "Alexander"
+abstract: >-
+  Archived research notebooks for SEM defect classification
+  using a frozen ResNet50V2 backbone, VAE-based minority-class
+  data augmentation, and conformal prediction.
+  The repository preserves historical experiment outputs
+  and documents methodological limitations.
+repository-code: "https://github.com/divineteso-ai/semiconductor-defect-classification"
+url: "https://github.com/divineteso-ai/semiconductor-defect-classification"
+keywords:
+  - semiconductor defect classification
+  - scanning electron microscopy
+  - variational autoencoder
+  - data augmentation
+  - conformal prediction
